@@ -1,3 +1,3 @@
 # computacional
 
-Visualizaci
+Visualización de campos vectoriales con python.
